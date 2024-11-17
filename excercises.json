@@ -1,0 +1,75 @@
+{
+    "Upper": {
+        "Chest": {
+            "Upper Pectoral": {
+                "Excercises": ["Incline Bench Press"]
+            },
+            "Medial Pectoral": {
+                "Excercises": ["Bench Press", "Pushups", "Peck Fly"]
+            },
+            "Lower Pectoral": {
+                "Excercises": ["Dip", "Low Peck Fly", ""]
+            }
+        },
+        "Shoulders": {
+            "Front Deltoid": {
+                "Excercises": ["Front Raises", "Overhead Press", "Dumbell Press"]
+            },
+            "Lateral Deltoid": {
+                "Excercises": ["Lateral Cable Raise", "Cable Y Raise"]
+            },
+            "Rear Deltoid": {
+                "Excercises": ["Rear Delt Fly", "Anterior Cable Raise"]
+            }
+        }, 
+        "Arms": {
+            "Biceps": {
+                "Excercises": ["Incline Curl", "Behind Back Curl", "Hammer Curl"]
+            },
+            "Brachialus": {
+                "Excercises": ["Front Curl", "Hammer Curl"]
+            },
+            "Triceps": {    
+                "Excercises": ["Skull Crusher", "Tricep Pushdown"]
+            }
+        }
+    },
+    "Back": {
+        "Upper Back": {
+            "Upper Trapezious": {
+                "Excercises": ["Shoulder Strugs"]
+            },
+            "Medial Trapezious": {
+                "Excercises": ["Can Can Raise", "Face Pulls"]
+            }
+        },
+        "Lower Back": {
+            "Latismus": {
+                "Excercises": ["Cable Row", "Lat Prayer", "Pull Ups", "Dead Lifts"]
+            },
+            "Lower Back": {
+                "Excercises": ["Flexion Row"]
+            }
+        }
+    },
+    "Lower": {
+        "Compounds": {
+            "Excercises": ["Squat", "Front Squat", "Dead Lift"]
+        }, 
+        "Quadriceps": {
+            "Excercises": ["Quad Extension", "Leg Press"] 
+        },
+        "Hamstrings": {
+            "Excercises": ["Hamstring Curl", "Romanian Deadlift"]
+        }, 
+        "Calfs": {
+            "Excercises": ["Calf Raises"]
+        },
+        "Glutes": {
+            "Excercises": ["Lunges", "Glute Bridge", "Kettle Bell Swing"]
+        }
+    },
+    "Core": {
+        "Excercises": ["Leg Raises", "Russian Twist", "Around The World", "Kettle Bell Swing", "Kettle Bell Clean", "Kettle Bell Pull Through"]
+    }
+}
